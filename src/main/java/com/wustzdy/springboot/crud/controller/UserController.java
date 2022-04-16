@@ -1,7 +1,7 @@
-package com.example.accessingdatamysql.controller;
+package com.wustzdy.springboot.crud.controller;
 
-import com.example.accessingdatamysql.entity.User;
-import com.example.accessingdatamysql.service.UserService;
+import com.wustzdy.springboot.crud.entity.User;
+import com.wustzdy.springboot.crud.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

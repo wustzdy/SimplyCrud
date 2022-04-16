@@ -1,7 +1,7 @@
-package com.example.accessingdatamysql.service;
+package com.wustzdy.springboot.crud.service;
 
-import com.example.accessingdatamysql.dao.UserDao;
-import com.example.accessingdatamysql.entity.User;
+import com.wustzdy.springboot.crud.dao.UserDao;
+import com.wustzdy.springboot.crud.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

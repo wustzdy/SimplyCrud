@@ -1,6 +1,6 @@
-package com.example.accessingdatamysql.controller;
+package com.wustzdy.springboot.crud.controller;
 
-import com.example.accessingdatamysql.service.I18nService;
+import com.wustzdy.springboot.crud.service.I18nService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

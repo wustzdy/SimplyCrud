@@ -1,6 +1,6 @@
-package com.example.accessingdatamysql.dao;
+package com.wustzdy.springboot.crud.dao;
 
-import com.example.accessingdatamysql.entity.User;
+import com.wustzdy.springboot.crud.entity.User;
 import org.apache.ibatis.annotations.*;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.accessingdatamysql.entity;
+package com.wustzdy.springboot.crud.entity;
 
 public class User {
     private int id;

@@ -1,6 +1,6 @@
-package com.example.accessingdatamysql.service;
+package com.wustzdy.springboot.crud.service;
 
-import com.example.accessingdatamysql.util.LocaleUtils;
+import com.wustzdy.springboot.crud.util.LocaleUtils;
 import org.springframework.context.MessageSource;
 import org.springframework.stereotype.Service;
 

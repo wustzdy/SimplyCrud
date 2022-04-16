@@ -1,4 +1,4 @@
-package com.example.accessingdatamysql.util;
+package com.wustzdy.springboot.crud.util;
 
 import org.springframework.context.i18n.LocaleContextHolder;
 
